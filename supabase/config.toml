@@ -1,0 +1,9 @@
+# Supabase local development config (optional)
+# Deploy edge functions with: supabase functions deploy gemini-proxy
+#                           supabase functions deploy agora-token
+
+[functions.gemini-proxy]
+verify_jwt = true
+
+[functions.agora-token]
+verify_jwt = true

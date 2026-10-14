@@ -1,0 +1,34 @@
+{
+  "common": {
+    "welcome": "Welcome back,",
+    "save": "Save",
+    "cancel": "Cancel",
+    "language": "Language",
+    "synced": "All changes synced.",
+    "syncPending": "{{count}} change(s) waiting to upload."
+  },
+  "patient": {
+    "vitals": "My Vitals",
+    "medications": "Today's Medications",
+    "visits": "Upcoming Visits",
+    "tips": "Health Tips for You",
+    "wellness": "Wellness Reminder",
+    "noVitals": "No vitals recorded yet. Your healthcare provider will update these after your next visit.",
+    "noMeds": "No medication reminders scheduled.",
+    "noVisits": "No upcoming appointments scheduled.",
+    "markTaken": "Marked as taken",
+    "doseDue": "Due {{time}}"
+  },
+  "asha": {
+    "fieldRoute": "Today's Field Route",
+    "fieldRouteHint": "Ordered by priority score",
+    "openMaps": "Open in Google Maps",
+    "stops": "{{count}} stops"
+  },
+  "profile": {
+    "chooseLanguage": "Choose language",
+    "english": "English",
+    "hindi": "Hindi",
+    "tamil": "Tamil"
+  }
+}
